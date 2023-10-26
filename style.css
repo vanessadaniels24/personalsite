@@ -1,6 +1,9 @@
 body{
      font-size: larger;
-     background-color: rgb(222, 173, 181);
-     color: aqua;
+     background-color: rgb(110, 10, 104);
+     color: rgb(64, 202, 212);
      margin: auto;
+     color: {display:flex;
+    flex-direction::content
+flex-wraps::view-transition-image-pair};
 }
